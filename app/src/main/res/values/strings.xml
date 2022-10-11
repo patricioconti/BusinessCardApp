@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="complete_name">Patricio Conti</string>
+    <string name="title">Android Developer</string>
+    <string name="phone_number">+54 9 223 5441224</string>
+    <string name="social_media_id">@patoconti</string>
+    <string name="email_address">patricioconti@hotmail.com</string>
+</resources>
